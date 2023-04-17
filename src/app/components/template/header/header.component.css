@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.header a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #fff;
+}
+
+.header .logo{
+    max-width: 10rem;
+}
+
+.header .title-group{
+    padding-left: 4rem;
+}
+
+.header .title-group i{
+    padding-right: 0.8rem;
+}
